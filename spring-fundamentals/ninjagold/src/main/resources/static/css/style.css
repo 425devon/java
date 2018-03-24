@@ -1,0 +1,55 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+.container{
+    width: 970px;
+}
+div{
+    padding-top: 1em;
+}
+div .box{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 1em;
+    box-shadow: 3px 3px 3px;
+    width: 185px;
+    height: 175px;
+    vertical-align: top;
+    padding: 15px;
+
+
+}
+form{
+    text-align: center;
+}
+div .gold{
+    display: block;
+    padding-bottom: 2em;
+}
+div .gold h2{
+    display: inline;
+}
+.log form textarea{
+    border: 1px solid black;
+    background-color: black;
+    color: rgb(20, 248, 20);
+    border-radius: 1em;
+    box-shadow: 3px 3px;
+    width: 850px;
+    height: 200px;
+    text-align: left;
+    padding-left: 2em;
+
+}
+.sub{
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px;
+    padding: 3px;
+    margin-top: 50px;
+    vertical-align: middle;
+}
